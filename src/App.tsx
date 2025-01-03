@@ -8,7 +8,7 @@ export default function Home() {
 			<div className="relative m-4 min-h-screen">
 				<header className="card container mx-auto flex w-full items-center justify-between">
 					<div className="container mx-auto flex items-center justify-between">
-						<h1 className="text-2xl font-semibold">Hello World!</h1>
+						<h1 className="font-semibold">Hello World!</h1>
 					</div>
 				</header>
 
